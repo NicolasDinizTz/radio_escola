@@ -22,9 +22,9 @@
     min-height: 100vh;
     /*liita a altura do body ao mínino de 100% da altura da tela do dispositivo*/
   }
-  ing {
+  img {
     width: 94px;
-    heigth: 94px;
+    height: 94px;
   }
   h1 {
     color: var(--branca);
